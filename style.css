@@ -65,7 +65,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 3%;
+    margin-bottom: 0%;
 }
 .mid-width{
     width: 60%;
@@ -129,4 +129,20 @@ div.card img{
 }
 .followers2{
     text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.footer1{
+    text-align: center;
+    color: rgb(78, 80, 76);
+}
+.footer2{
+    color: rgb(236, 77, 29);
+}
+.background1{
+    background-color: rgb(18, 15, 27);
+}
+.footer3{
+    color: lightyellow;
 }
